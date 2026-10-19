@@ -1,0 +1,5 @@
+# Permite que todos os buscadores leiam o site e indica onde está o sitemap.
+User-agent: *
+Allow: /
+
+Sitemap: https://nexowebp.netlify.app/sitemap.xml
